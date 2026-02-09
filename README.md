@@ -3,7 +3,6 @@
 ##  Project Contents
 
 - `DeepLearning2.ipynb`: Project source code in Jupyter Notebook
-- `Deep Learning 2 Raporu.pdf`: Project report (in Turkish)
 - Model training and testing
 - Sample visual outputs
 - Metric analysis
